@@ -1,6 +1,6 @@
 ---
 title: "An Updated Ttile"
-subtitle: "An updated subtitle"
+subtitle: "An updated subtitle yet again"
 ---
 
 ## Welcome {#welcome}
